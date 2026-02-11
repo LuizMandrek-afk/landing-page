@@ -1,0 +1,19 @@
+.section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+#home {
+    background: linear-gradient(135deg, #0f2027, #203a43);
+    color: black;
+}
+
+#about {
+    background: linear-gradient(135deg, #1b2a49, #274060);
+    color: black;
+}
+#contact {
+    background: linear-gradient(135deg, #1f4068, #2c5364);
+    color: black;
+}
